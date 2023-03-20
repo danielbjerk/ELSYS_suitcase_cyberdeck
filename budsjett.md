@@ -13,3 +13,5 @@
 | Infill i koffert? |  |  |
 | Hardware (skruer, braketter, strømtilgang etc) | 200kr |  |
 | Sum | Maks ~5400kr |  |
+| Akryl for å holde deler på plass? | | |
+| RGB-LEDstrips for gamer swag | | |
