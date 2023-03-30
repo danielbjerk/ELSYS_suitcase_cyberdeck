@@ -8,7 +8,7 @@
 | Kompakt tastatur med trackpad (kun dersom RPI400 ikke brukes) | Maks 500kr | [Eksempelvis](https://www.kjell.com/no/produkter/data/tastatur/bluetooth-tastatur/linocell-sammenleggbart-bluetooth-tastatur-p20785) |
 | Videospill-gamepads | Maks 700kr | [Eksempelvis](https://www.amazon.com/PowerA-Enhanced-Wired-Controller-Xbox-x/dp/B08WSXJLMK?tag=theverge02-20&ascsubtag=%5B%5Dvg%5Bp%5D22789484%5Bt%5Dw%5Br%5Dhttps%3A%2F%2Fwww.google.com%2F%5Bd%5DD&th=1) |
 | Heat-sink og vifte | 40kr | [Fra OV](https://omegav.no/komp?search=vifte) eller [Mouser](https://no.mouser.com/ProductDetail/Adafruit/3368?qs=AQlKX63v8Ru7ndBb3KY80w%3D%3D) |
-| HDMI-expander for ekstern skjerm |  | [Link](https://www.vanco1.com/product/the-ultimate-hdmi-adapter-right-angle-super-flex-flat-hdmi-high-speed-male-to-female-cable/) eller [Link](https://aerialpixels.com/shop/audio-video-cables-accessories/ultra-thin-hdmi-cables/ultra-thin-hdmi-cable-micro-to-hdmi-mini-right-angle-flat-ribbon-cable-30cm-11-8/) |
+| HDMI-expander for ekstern skjerm |  | [Link](https://www.vanco1.com/product/the-ultimate-hdmi-adapter-right-angle-super-flex-flat-hdmi-high-speed-male-to-female-cable/) eller [Link](https://aerialpixels.com/shop/audio-video-cables-accessories/ultra-thin-hdmi-cables/ultra-thin-hdmi-cable-micro-to-hdmi-mini-right-angle-flat-ribbon-cable-30cm-11-8/) samt [Switch](https://www.kjell.com/no/produkter/kabler-og-kontakter/kabler-til-tv/kabler-for-bilde/hdmi/hdmi-switch/hdmi-switch-2-veis-p69455) eller [Splitter](https://www.elkjop.no/product/tjenester-og-tilbehor/kabler-og-kontakter/kabeladapter/hdmi-splitter-1x2-for-2-skjermer-3d-4k-1080p/145362#specifications) |
 | PSU? |  |  |
 | Infill i koffert? |  |  |
 | Hardware (skruer, braketter, strømtilgang etc) | 200kr |  |
